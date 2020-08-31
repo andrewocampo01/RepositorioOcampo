@@ -3328,7 +3328,7 @@ input, select, textarea {
 			}
 
 		#intro strong, #intro b {
-			color: #ffffff;
+			color: #e90707;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
@@ -3372,9 +3372,9 @@ input, select, textarea {
 			#intro input[type="button"].primary,
 			#intro button.primary,
 			#intro .button.primary {
-				background-color: #ffffff;
+				background-color: #f10909;
 				box-shadow: none;
-				color: #1e252d !important;
+				color: #0e7af7 !important;
 			}
 
 				#intro input[type="submit"].primary:hover,
