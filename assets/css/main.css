@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: #242923;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -302,7 +302,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #212931;
+		color: #145291;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2206,7 +2206,7 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #212931;
+		box-shadow: inset 0 0 0 2px #303b46;
 		color: #212931 !important;
 	}
 
@@ -2483,7 +2483,7 @@ input, select, textarea {
 	input[type="email"],
 	select,
 	textarea {
-		border-color: #eeeeee;
+		border-color: #0eb41b;
 	}
 
 		input[type="text"]:focus,
@@ -2500,7 +2500,7 @@ input, select, textarea {
 
 		select option {
 			background-color: #ffffff;
-			color: #212931;
+			color: #1578db;
 		}
 
 	.select-wrapper:before {
@@ -2997,7 +2997,7 @@ input, select, textarea {
 		}
 
 	header.major .date:before, header.major .date:after {
-		border-top-color: #eeeeee;
+		border-top-color: #78e215;
 	}
 
 /* Table */
@@ -4428,7 +4428,7 @@ input, select, textarea {
 
 		#copyright code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #838383;
 		}
 
 		#copyright hr {
