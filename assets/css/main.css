@@ -3088,6 +3088,7 @@ input, select, textarea {
 	}
 
 	table thead {
+		border-bottom-color: #e2df0d;
 	}
 
 	table tfoot {
