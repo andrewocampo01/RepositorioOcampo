@@ -3722,6 +3722,7 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
+					background-color: #29e910;
 				}
 
 					#nav ul.links li.active a {
