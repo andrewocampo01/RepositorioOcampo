@@ -4401,7 +4401,7 @@ input, select, textarea {
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
-			color: #ffffff;
+			color#ffffff;
 		}
 
 		#copyright a {
@@ -4411,7 +4411,7 @@ input, select, textarea {
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #31ef18 !important;
 			}
 
 		#copyright strong, #copyright b {
